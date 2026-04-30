@@ -5,3 +5,7 @@ body{
 header{
     background-color: cornflowerblue;
 }
+
+header div img{
+    largura: 300px;
+}
