@@ -1,11 +1,11 @@
 body{
-     background-color: rgb(103, 191, 231);
+     background-color: rgba(103, 190, 231, 0.418);
 }
 
 header{
-    background-color: cornflowerblue;
+    background-color: rgba(0, 0, 0, 0.425);
 }
 
 header div img{
-    largura: 300px;
+    width: 300px;
 }
