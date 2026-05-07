@@ -6,6 +6,11 @@ header{
     background-color: rgba(0, 0, 0, 0.425);
 }
 
-header div img{
+#img-raio{
     width: 300px;
+}
+
+.paragrafo{
+    text-align: center;
+
 }
